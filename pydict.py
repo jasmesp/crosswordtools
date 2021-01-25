@@ -9,7 +9,5 @@ def output():
 
 def repeat():
     output()
-    
+
 repeat()
-
-
